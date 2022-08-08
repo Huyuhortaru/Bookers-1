@@ -37,6 +37,10 @@ body {
     margin: 8px;
 }
 
+#notice {
+    color: green;
+}
+
 p, ol, ul, td {
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 13px;
@@ -149,8 +153,13 @@ input[type="hidden" i] {
     border: initial;
 }
 
-div.field, div.actions {
+div {
     margin-bottom: 10px;
+}
+
+user agent stylesheet
+div {
+    display: block;
 }
 
 label {

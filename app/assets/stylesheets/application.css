@@ -115,12 +115,12 @@ a {
 }
 
 a:visited {
-    color: #666;*/
+    color: #666;
 }
 
 user agent stylesheet
 a:-webkit-any-link {
-    color: -webkit-link;*/
+    color:webkit-link;
     cursor: pointer;
     text-decoration: underline;
     text-decoration-line: underline;
